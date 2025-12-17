@@ -31,7 +31,7 @@ export default function Navbar() {
           >
             <FileText className="w-6 h-6 text-trust-blue" />
             <span className={`text-xl font-bold tracking-tighter ${isDark ? 'text-white' : 'text-dark-text'}`}>
-              ATS PRO
+              RESLYZER
             </span>
           </motion.div>
 
